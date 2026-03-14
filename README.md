@@ -1,12 +1,37 @@
 
 ![](https://github.com/metalbug/win11-taskbar-small-icon/blob/main/2026-2-15%209-39-14.png)
 
-这个小软件只有一个功能，就是把 win11 任务栏变回小图标
+SlimBar11
 
-首先把软件解压到任何你喜欢的目录，比如 D:\Tools\Taskbar\ 或者 C:\Program Files\TaskbarTweaker\ 然后运行，如果没效果，试试以管理员权限运行。
+🇺🇸 English Description
 
-如果软件成功运行，并且成功应用到任务栏，软件会自动被加载到 任务计划程序 里，跟随开机自动启动
+This small utility has only one function: to shrink the Windows 11 taskbar back to small icons.
 
-如果你想停用它，可以带参数 -u 来运行它，使用这个命令 taskbar_tweaker -u
+Installation & Usage: Extract the software to any directory of your choice, and it is highly recommended to run it with Administrator privileges.
 
-如果遇到任何问题，请积极反馈。
+Auto-Start on Boot: If run successfully, the software will automatically add itself to the Task Scheduler to launch silently on startup.
+
+Command Line Arguments:
+
+SlimBar11 -t: Dock the taskbar to the top of the screen.
+
+SlimBar11 -u: Disable and uninstall the utility.
+
+Feedback: If you encounter any issues, please actively provide feedback.
+
+
+🇨🇳 中文说明
+
+这个小软件只有一个功能：把 Win11 任务栏变回小图标。
+
+安装与运行：将软件解压到任何你喜欢的目录，强烈建议使用管理员权限运行。
+
+开机自启：如果软件成功运行，它会自动被添加到“任务计划程序”里，跟随系统开机自动启动。
+
+命令行参数：
+
+SlimBar11 -t：让任务栏置顶显示。
+
+SlimBar11 -u：停用并卸载该软件及自启任务。
+
+反馈：如果遇到任何问题，请积极反馈。

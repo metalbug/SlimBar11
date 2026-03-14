@@ -1,5 +1,6 @@
 
-![](https://github.com/metalbug/win11-taskbar-small-icon/blob/main/2026-2-15%209-39-14.png)
+![](https://github.com/metalbug/SlimBar11/blob/main/2026-2-15%209-39-14.png)
+
 ![](https://github.com/metalbug/SlimBar11/blob/main/SlimBar11.gif)
 
 # SlimBar11

@@ -24,5 +24,6 @@ This small utility has only one function: to shrink the Windows 11 taskbar back 
 * **解决方式**：将解压目录或 slimbar11.exe 与 slimbar11_hook.dll 添加至杀软白名单，如有顾虑请克隆源码自行编译。
 * **运行参数**：
   * `SlimBar11 -t`：让任务栏置顶显示。
+  * `SlimBar11 -to`：让任务只置顶不缩小。
   * `SlimBar11 -u`：停用并卸载该软件及自启任务。
 * **问题反馈**：如果遇到任何问题，请积极反馈。

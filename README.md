@@ -1,7 +1,7 @@
 
 ![](https://github.com/metalbug/SlimBar11/blob/main/2026-2-15%209-39-14.png)
 
-![](https://github.com/metalbug/SlimBar11/blob/main/SlimBar11.gif)
+https://github.com/user-attachments/assets/7052355b-7907-4ec0-a705-96a6f73413bd
 
 # SlimBar11
 
